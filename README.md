@@ -5,7 +5,7 @@ This catalog catalog contains a list of notation examples encoded using [Music E
 * [Barline](barline/barline.md)
 * [Clef](clef/clef.md)
 * [Custos](custos/custos.md)
-* [Dots](dots/dots.md)
+* [Dots](dot/dot.md)
 * [Keys](key/key.md)
 * [Lyrics](lyrics/lyrics.md)
 * [Mensurations](mensuration/mensuration.md)
